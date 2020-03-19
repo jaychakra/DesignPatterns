@@ -1,3 +1,4 @@
+package Strategy.Imp1;
 class MallardDuck extends Duck {
     MallardDuck() {
         this.name="MallardDuck";

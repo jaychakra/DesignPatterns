@@ -1,3 +1,4 @@
+package Strategy.Imp1;
 class Duck {
     protected String name;
 

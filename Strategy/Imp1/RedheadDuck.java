@@ -1,3 +1,4 @@
+package Strategy.Imp1;
 class RedheadDuck extends Duck{
     RedheadDuck() {
         this.name = "ReadHeadDuck";
