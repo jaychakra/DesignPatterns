@@ -9,6 +9,13 @@ class StatisticsDisplay implements Observer, Display {
     private  double humidity;
     private  static String name = "Statistics Display";
 
+    private WeatherStation weatherStation;
+
+    StatisticsDisplay(WeatherStation ws) {
+        this.weatherStation = ws;
+        weatherStation.registerObserver(this);
+    }
+
     public void update(double temperature, double pressure, double humidity) {
         this.temperature = temperature;
         this.pressure = pressure;

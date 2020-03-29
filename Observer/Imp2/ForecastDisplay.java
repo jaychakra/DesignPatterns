@@ -10,6 +10,13 @@ class ForecastDisplay implements Observer, Display {
     private  double humidity;
     private  static String name = "Forecast Display";
 
+    private WeatherStation weatherStation;
+
+    ForecastDisplay(WeatherStation ws) {
+        this.weatherStation = ws;
+        weatherStation.registerObserver(this);
+    }
+
     public void update(double temperature, double pressure, double humidity) {
         this.temperature = temperature;
         this.pressure = pressure;

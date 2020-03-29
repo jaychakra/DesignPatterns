@@ -8,6 +8,12 @@ class CurrentConditionDisplay implements Observer, Display {
     private  double pressure;
     private  double humidity;
     private  static String name = "Current Condition Display";
+    private WeatherStation weatherStation;
+
+    CurrentConditionDisplay(WeatherStation ws) {
+        this.weatherStation = ws;
+        weatherStation.registerObserver(this);
+    }
 
     public void update(double temperature, double pressure, double humidity) {
         this.temperature = temperature;
