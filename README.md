@@ -25,7 +25,6 @@ As per the utility they are broadly classified into 3 sets
 | [Prototype](./Creational/Builder/Notes/Intro.md)               | [Proxy](./Structural/Proxy/Notes/Intro.md)        | [Iterator](./Behavioural/Iterator/Notes/Intro.md)                            |
 |                                                                | [Bridge](./Structural/Bridge/Notes/Intro.md)      | [Memento](./Behavioural/Iterator/Notes/Intro.md)                             | 
 |                                                                | [FlyWeight](./Structural/FlyWeight/Notes/Intro.md)| [Interpreter](./Behavioural/Interpreter/Notes/Intro.md)                      | 
-|                                                                |                                                   | [Memento](./Behavioural/Memento/Notes/Intro.md)                              | 
 |                                                                |                                                   | [Template](./Behavioural/Template/Notes/Intro.md)                            | 
 |                                                                |                                                   | [Visitor](./Behavioural/Visitor/Notes/Intro.md)                              | 
 |                                                                |                                                   | [Mediator](./Behavioural/Mediator/Notes/Intro.md)                            | 
