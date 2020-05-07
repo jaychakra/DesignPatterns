@@ -17,5 +17,9 @@ As per the utility they are broadly classified into 3 sets
 
 | Creational                      | Structural                        | Behavioural                   |
 | :-------------------------------|:----------------------------------|:------------------------------|
-| Factory|                                   |                               |
+| [Factory](./Creational/Factory/Notes/Intro.md)|                          |                               |
+| [Abstract Factory](./Creational/AbstractFactory/Notes/Intro.md)|                          |                               |
+| [Singleton](./Creational/Singleton/Notes/Intro.md)|                          |                               |
+| [Builder](./Creational/Builder/Notes/Intro.md)|                          |                               |
+| [Prototype](./Creational/Builder/Notes/Intro.md)|                          |                               |
  
