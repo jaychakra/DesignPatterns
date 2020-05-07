@@ -1,6 +1,6 @@
-package Strategy.Imp2;
+package Behavioural.Strategy.Imp2;
 
-import Strategy.Imp2.types.*;
+import Behavioural.Strategy.Imp2.types.*;
 
 class DecoyDuck extends Duck implements Flyable, Quackable {
     DecoyDuck() {

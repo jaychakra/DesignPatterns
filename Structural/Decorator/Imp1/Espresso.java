@@ -1,4 +1,4 @@
-package Decorator.Imp1;
+package Structural.Decorator.Imp1;
 
 public class Espresso extends Beverage {
     Espresso() {

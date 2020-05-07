@@ -1,4 +1,4 @@
-package Observer.Imp2.types;
+package Behavioural.Observer.Imp2.types;
 
 public interface Display {
     void display();

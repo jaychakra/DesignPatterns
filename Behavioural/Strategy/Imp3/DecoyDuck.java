@@ -1,7 +1,7 @@
-package Strategy.Imp3;
+package Behavioural.Strategy.Imp3;
 
-import Strategy.Imp3.types.flyBehaviour.FlyWithWings;
-import Strategy.Imp3.types.quackBehaviour.Quack;
+import Behavioural.Strategy.Imp3.types.flyBehaviour.FlyWithWings;
+import Behavioural.Strategy.Imp3.types.quackBehaviour.Quack;
 
 class DecoyDuck extends Duck {
     DecoyDuck() {

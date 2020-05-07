@@ -1,4 +1,4 @@
-package Strategy.Imp3.types.flyBehaviour;
+package Behavioural.Strategy.Imp3.types.flyBehaviour;
 
 public class FlyNoWay implements FlyBehaviour {
     @Override

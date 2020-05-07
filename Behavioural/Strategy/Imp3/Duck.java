@@ -1,7 +1,7 @@
-package Strategy.Imp3;
+package Behavioural.Strategy.Imp3;
 
-import Strategy.Imp3.types.flyBehaviour.FlyBehaviour;
-import Strategy.Imp3.types.quackBehaviour.QuackBehaviour;
+import Behavioural.Strategy.Imp3.types.flyBehaviour.FlyBehaviour;
+import Behavioural.Strategy.Imp3.types.quackBehaviour.QuackBehaviour;
 
 class Duck {
     private FlyBehaviour flyBehaviour;

@@ -1,8 +1,7 @@
-package Strategy.Imp3;
+package Behavioural.Strategy.Imp3;
 
-import Strategy.Imp2.types.Flyable;
-import Strategy.Imp3.types.flyBehaviour.FlyNoWay;
-import Strategy.Imp3.types.quackBehaviour.Mute;
+import Behavioural.Strategy.Imp3.types.flyBehaviour.FlyNoWay;
+import Behavioural.Strategy.Imp3.types.quackBehaviour.Mute;
 
 class RubberDuck extends Duck{
     RubberDuck() {

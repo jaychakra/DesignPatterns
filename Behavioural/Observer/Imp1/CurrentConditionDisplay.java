@@ -1,4 +1,4 @@
-package Observer.Imp1;
+package Behavioural.Observer.Imp1;
 
 class CurrentConditionDisplay {
     private  double temperature;

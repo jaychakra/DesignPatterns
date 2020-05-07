@@ -1,4 +1,4 @@
-package Decorator.Imp2;
+package Structural.Decorator.Imp2;
 
 public class HouseBlend extends Beverage {
     HouseBlend() {

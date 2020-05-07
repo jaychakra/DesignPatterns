@@ -1,6 +1,6 @@
-package Observer.Imp2;
+package Behavioural.Observer.Imp2;
 
-import Observer.Imp2.types.Observer;
+import Behavioural.Observer.Imp2.types.Observer;
 
 public class Main {
 

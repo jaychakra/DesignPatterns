@@ -1,7 +1,7 @@
-package Observer.Imp2;
+package Behavioural.Observer.Imp2;
 
-import Observer.Imp2.types.Display;
-import Observer.Imp2.types.Observer;
+import Behavioural.Observer.Imp2.types.Display;
+import Behavioural.Observer.Imp2.types.Observer;
 
 class ForecastDisplay implements Observer, Display {
 

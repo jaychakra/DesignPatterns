@@ -1,4 +1,4 @@
-package Decorator.Imp3;
+package Structural.Decorator.Imp3;
 abstract public class Beverage {
     String description = "Unknown Beverage";
 

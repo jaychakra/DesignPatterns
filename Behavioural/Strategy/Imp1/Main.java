@@ -1,4 +1,4 @@
-package Strategy.Imp1;
+package Behavioural.Strategy.Imp1;
 import java.util.ArrayList;
 
 public class Main {

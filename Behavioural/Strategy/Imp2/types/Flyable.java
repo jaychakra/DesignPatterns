@@ -1,4 +1,4 @@
-package Strategy.Imp2.types;
+package Behavioural.Strategy.Imp2.types;
 
 public interface Flyable {
     void fly();

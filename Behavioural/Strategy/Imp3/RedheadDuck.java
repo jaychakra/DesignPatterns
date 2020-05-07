@@ -1,8 +1,8 @@
-package Strategy.Imp3;
+package Behavioural.Strategy.Imp3;
 
 
-import Strategy.Imp3.types.flyBehaviour.FlyWithWings;
-import Strategy.Imp3.types.quackBehaviour.Squeak;
+import Behavioural.Strategy.Imp3.types.flyBehaviour.FlyWithWings;
+import Behavioural.Strategy.Imp3.types.quackBehaviour.Squeak;
 
 class RedheadDuck extends Duck {
     RedheadDuck() {

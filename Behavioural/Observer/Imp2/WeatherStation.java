@@ -1,7 +1,7 @@
-package Observer.Imp2;
+package Behavioural.Observer.Imp2;
 
-import Observer.Imp2.types.Observer;
-import Observer.Imp2.types.Subject;
+import Behavioural.Observer.Imp2.types.Observer;
+import Behavioural.Observer.Imp2.types.Subject;
 
 import java.util.HashSet;
 

@@ -1,4 +1,4 @@
-package Strategy.Imp2;
+package Behavioural.Strategy.Imp2;
 class Duck {
     protected String name;
 

@@ -1,5 +1,5 @@
-package Strategy.Imp2;
-import Strategy.Imp2.types.*;
+package Behavioural.Strategy.Imp2;
+import Behavioural.Strategy.Imp2.types.*;
 class RubberDuck extends Duck implements Flyable{
     RubberDuck() {
         this.name = "RubberDuck";

@@ -1,4 +1,4 @@
-package Decorator.Imp3;
+package Structural.Decorator.Imp3;
 
 public class Mocha extends CondimentDecorator {
     String description = "Mocha";

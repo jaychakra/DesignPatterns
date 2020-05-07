@@ -1,4 +1,4 @@
-package Decorator.Imp2;
+package Structural.Decorator.Imp2;
 abstract public class Beverage {
     protected String description;
     protected Boolean milk;

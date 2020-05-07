@@ -1,4 +1,4 @@
-package Strategy.Imp1;
+package Behavioural.Strategy.Imp1;
 class MallardDuck extends Duck {
     MallardDuck() {
         this.name="MallardDuck";

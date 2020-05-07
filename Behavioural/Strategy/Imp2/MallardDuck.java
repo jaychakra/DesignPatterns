@@ -1,5 +1,5 @@
-package Strategy.Imp2;
-import Strategy.Imp2.types.*;
+package Behavioural.Strategy.Imp2;
+import Behavioural.Strategy.Imp2.types.*;
 class MallardDuck extends Duck implements Flyable, Quackable{
     MallardDuck() {
         this.name="MallardDuck";
