@@ -15,11 +15,12 @@ As per the utility they are broadly classified into 3 sets
 * **Structural**: Deals with organising classes/objects to form larger structure and provide new functionality
 * **Behavioural**: Deals with  identifying common communication patterns between object
 
-| Creational                      | Structural                        | Behavioural                   |
-| :-------------------------------|:----------------------------------|:------------------------------|
-| [Factory](./Creational/Factory/Notes/Intro.md)|                          |                               |
-| [Abstract Factory](./Creational/AbstractFactory/Notes/Intro.md)|                          |                               |
-| [Singleton](./Creational/Singleton/Notes/Intro.md)|                          |                               |
-| [Builder](./Creational/Builder/Notes/Intro.md)|                          |                               |
-| [Prototype](./Creational/Builder/Notes/Intro.md)|                          |                               |
- 
+| Creational                                                     | Structural                                        | Behavioural                   |
+| :--------------------------------------------------------------| :-------------------------------------------------|:------------------------------|
+| [Factory](./Creational/Factory/Notes/Intro.md)                 | [Decorator](./Structural/Decorator/Notes/Intro.md)|                               |
+| [Abstract Factory](./Creational/AbstractFactory/Notes/Intro.md)| [Adapter](./Structural/Adapter/Notes/Intro.md)    |                               |
+| [Singleton](./Creational/Singleton/Notes/Intro.md)             | [Facade](./Structural/Facade/Notes/Intro.md)      |                               |
+| [Builder](./Creational/Builder/Notes/Intro.md)                 | [Composite](./Structural/Composite/Notes/Intro.md)|                               |
+| [Prototype](./Creational/Builder/Notes/Intro.md)               | [Proxy](./Structural/Proxy/Notes/Intro.md)        |                               |
+|                                                                | [Bridge](./Structural/Bridge/Notes/Intro.md)      |                               | 
+|                                                                | [FlyWeight](./Structural/FlyWeight/Notes/Intro.md)|                               | 
