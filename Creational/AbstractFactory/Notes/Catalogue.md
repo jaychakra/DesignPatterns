@@ -1,5 +1,5 @@
 ### Intent
-TODO
+* Enables one to create a group of related objects without specifying their concrete classes
 
 ### Structure
 TODO
