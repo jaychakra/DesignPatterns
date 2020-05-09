@@ -24,3 +24,4 @@ TODO
 
 
 ### Detailed Reference
+* [Refactoring Guru](https://refactoring.guru/design-patterns/abstract-factory)
