@@ -1,5 +1,11 @@
 ### Intent
-TODO
+* Provides an interface for creating objects in superclass 
+* Allows subclasses to alter the type of object that will be created.  
+
+##### Meaning??
+* Replace direct Object construction calls using the new operator with calls to special factory method. 
+* It decouples object creation logic dramatically.
+
 
 ### Structure
 TODO
@@ -24,4 +30,4 @@ TODO
 
 
 ### Detailed Reference
-
+* [Refactoring Guru](https://refactoring.guru/design-patterns/factory-method)
